@@ -12,7 +12,8 @@
     "element-ui": "^1.1.2",
     "extract-text-webpack-plugin": "^2.1.0",
     "glob": "^7.1.1",
-    "vue": "^2.1.8"
+    "vue": "^2.1.8",
+    "webpack-dev-server": "^2.4.4"
   },
   "engines": {
     "node": ">=6"
@@ -36,7 +37,6 @@
     "url-loader": "^0.5.8",
     "vue-loader": "^11.1.4",
     "vue-template-compiler": "^2.1.8",
-    "webpack": "^2.2.0-rc.4",
-    "webpack-dev-server": "beta"
+    "webpack": "^2.2.0-rc.4"
   }
 }
